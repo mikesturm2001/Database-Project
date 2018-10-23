@@ -3,15 +3,15 @@
 <p>This is a simple database for an exotic car dealership that does basic reporting on sales. The project was developed for and using Oracle SQL Server. This project demonstrates basic usage of the following statements</p>
 
 <ul>
-  <li>create,</li>
-  <li>insert,</li>
-  <li>substitution variables,</li>
-  <li>joins,</li>
-  <li>keys,</li>
-  <li>constraints,</li>
-  <li>views,</li>
-  <li>group bys,</li>
-  <li>functions,</li>
+  <li>create</li>
+  <li>insert</li>
+  <li>substitution variables</li>
+  <li>joins</li>
+  <li>keys</li>
+  <li>constraints</li>
+  <li>views</li>
+  <li>group bys</li>
+  <li>functions</li>
   <li>entity relationship diagrams</li>
 </ul>
  
